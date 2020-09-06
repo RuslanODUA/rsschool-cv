@@ -22,11 +22,11 @@
 
 ## **Code examples (LATEST)**
 
-> not
+> * not
 
 ## **Experience**
 
-* _
+> * _
 
 ## **Education**
 
