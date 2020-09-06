@@ -17,9 +17,8 @@
 * React
 * React-native
 * Next.JS
-* git
 * Node.JS
-
+* git
 
 ## **Code examples (LATEST)**
 
