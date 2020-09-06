@@ -12,13 +12,13 @@
 ## **Skills that I will possess**
 
 > ### Coding:
-* javascript
+* Javascript
 * CSS, SCSS, SASS, LESS, PostCSS
 * React
 * React-native
 * Next.JS
 * Node.JS
-* git
+* Git
 
 ## **Code examples (LATEST)**
 
